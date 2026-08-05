@@ -1,6 +1,6 @@
-Hi there, I'm Jaydeep Parmar! 👋
+### Hi there, I'm Jaydeep Parmar! 👋
 🤖 AI Systems Engineer & Quantitative ML Developer | B.Tech ICT @ PDEU '27 (CGPA: 9.46)
-
+---
 I build production-ready Enterprise Autonomous AI Systems, Quant Financial ML Engines, and Deep Learning models. Passionate about solving complex problems through mathematical optimization and scalable system architecture.
 
 🎓 Academic Standing: 9.46 CGPA | B.Tech ICT @ PDEU, Gandhinagar
