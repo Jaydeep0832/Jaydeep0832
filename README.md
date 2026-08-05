@@ -1,5 +1,5 @@
-### Hi there, I'm Jaydeep Parmar! 👋
-🤖 AI Systems Engineer & ML Developer | B.Tech ICT @ PDEU '27 (CGPA: 9.45)
+### Jaydeep K. Parmar 
+🤖 AI & ML Engineer | Speech AI | B.Tech ICT @ PDEU '27 (CGPA: 9.45)
 ---
 I build production-ready Enterprise Autonomous AI Systems, Financial ML Engines, and Deep Learning models. Passionate about solving complex problems through mathematical optimization and scalable system architecture.
 
